@@ -1,6 +1,6 @@
 ## nodejs install in Devpod
 
-curl -fsSL https://deb.nodesource.com/setup_lts.x | -E bash -
+curl -fsSL https://deb.nodesource.com/setup_lts.x
 
 ## Installing the NodeSource Node.js 16.x repo...
 
